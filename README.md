@@ -10,7 +10,7 @@
 <a href="https://github.com/harunbo" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-1.png" alt="harunarslan" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/harun-arslan-844430240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harunarslan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19234617/harun-arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="harunarslan" height="30" width="40" /></a>
-<a href="(https://www.secure.instagram.com/hrnrsln/?hl=tr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harunarslan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hrnrsln/?hl=tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harunarslan" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
