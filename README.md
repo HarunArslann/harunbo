@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-![image](https://user-images.githubusercontent.com/104387490/172056156-b24d3ed8-81df-40ac-952e-e5125955649a.png)(https://github.com/harunbo)
+<a href="https://github.com/harunbo" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/104387490/172056248-7f97fc82-228a-45ca-929c-f5c9ea663a2f.png)" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/harun-arslan-844430240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19234617/harun-arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="(https://www.secure.instagram.com/hrnrsln/?hl=tr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
