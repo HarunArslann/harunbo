@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Harun
+### <center>Hi there 👋 I'm Harun</center>
 
 - 🌱 I’m currently learning **Java** and **JavaScript**
 - 💬 Ask me about **HTML** , **CSS**, **JavaScript**
