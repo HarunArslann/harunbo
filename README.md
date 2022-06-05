@@ -1,9 +1,6 @@
                                                       # Hi there 👋 I'm **Harun**
 
 
-<!--
-**harunbo/harunbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🌱 I’m currently learning **Java** and **JavaScript**
 - 💬 Ask me about **HTML** , **CSS**, **JavaScript**
 - 📫 How to reach me: [Contact Me](mailto:harunarslan1991@gmail.com)
